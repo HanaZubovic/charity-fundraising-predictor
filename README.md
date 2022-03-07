@@ -9,6 +9,7 @@ The report should contain the following:
 1. **Overview** of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis was to create a machine learning model that could accurately predict whehter a charity would obtain funding.
 2. **Results**: Using bulleted lists and images to support your answers, address the following questions.
+![Models](https://user-images.githubusercontent.com/16246354/157001972-692d5768-e4c8-4608-8758-102d5bf23744.png)
 
   * Data Preprocessing
     * What variable(s) are considered the target(s) for your model?
